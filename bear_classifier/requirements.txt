@@ -1,0 +1,4 @@
+fastai==2.7.18
+gradio==5.8.0
+jupyterlab==4.3.2
+nbdev==2.3.34
